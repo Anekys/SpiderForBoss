@@ -15,3 +15,4 @@
 <h2>使用方法</h2>
 <p>预先安装好需要的模块,如Selenium,wordcloud等,具体的可以打开py文件看上面的引入</p>
 <p>建议直接运行全Selenium版.py即可</p>
+<img src="test.png">
